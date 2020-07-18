@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7fdf0e4d-d6a2-4bae-ba21-992c03feee7a" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit3 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1elWyXmUrhFR0EeWo4uufUu4EYB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springcloudclient/src/main/resources" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.mario.springcloudclient" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\angelyc_repositories\springcloud\springcloudclient\src\main\resources" />
+      <recent name="E:\angelyc_repositories\springcloud\eurekaserver\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.RibbonConsumerApplication">
+    <configuration name="SpringCloudClientApplicationTest.hello" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springcloudclient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mario.springcloudclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mario.springcloudclient" />
+      <option name="MAIN_CLASS_NAME" value="com.mario.springcloudclient.SpringCloudClientApplicationTest" />
+      <option name="METHOD_NAME" value="hello" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mario.eurekaserver.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RibbonConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ribbon-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mario.ribbonconsumer.RibbonConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringcloudclientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloudclient" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mario.springcloudclient.SpringCloudClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="peer1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mario.eurekaserver.EurekaServerApplication" />
+      <option name="ACTIVE_PROFILES" value="peer1" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="peer2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mario.eurekaserver.EurekaServerApplication" />
+      <option name="ACTIVE_PROFILES" value="peer2" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="service1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloudclient" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mario.springcloudclient.SpringCloudClientApplication" />
+      <option name="ACTIVE_PROFILES" value="service1" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="service2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloudclient" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mario.springcloudclient.SpringCloudClientApplication" />
+      <option name="ACTIVE_PROFILES" value="service2" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.SpringCloudClientApplicationTest.hello" />
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+      <item itemvalue="Spring Boot.peer2" />
+      <item itemvalue="Spring Boot.peer1" />
+      <item itemvalue="Spring Boot.SpringcloudclientApplication" />
+      <item itemvalue="Spring Boot.service1" />
+      <item itemvalue="Spring Boot.service2" />
+      <item itemvalue="Spring Boot.RibbonConsumerApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringCloudClientApplicationTest.hello" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fdf0e4d-d6a2-4bae-ba21-992c03feee7a" name="默认的" comment="" />
+      <created>1594896914338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594896914338</updated>
+      <workItem from="1594896915671" duration="10046000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="385" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595035698577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="385" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595035698577" />
+    <state x="739" y="260" key="FileChooserDialogImpl" timestamp="1595035898543">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595035898543" />
+    <state x="771" y="439" key="Github.CreateGistDialog" timestamp="1595039104470">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="771" y="439" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595039104470" />
+    <state width="1403" height="355" key="GridCell.Tab.0.bottom" timestamp="1595039286683">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1403" height="355" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595039286683" />
+    <state width="1403" height="355" key="GridCell.Tab.0.center" timestamp="1595039286683">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1403" height="355" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595039286683" />
+    <state width="1403" height="355" key="GridCell.Tab.0.left" timestamp="1595039286683">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1403" height="355" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595039286683" />
+    <state width="1403" height="355" key="GridCell.Tab.0.right" timestamp="1595039286683">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1403" height="355" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595039286683" />
+    <state width="1403" height="355" key="GridCell.Tab.1.bottom" timestamp="1595039286684">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1403" height="355" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595039286684" />
+    <state width="1403" height="355" key="GridCell.Tab.1.center" timestamp="1595039286683">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1403" height="355" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595039286683" />
+    <state width="1403" height="355" key="GridCell.Tab.1.left" timestamp="1595039286683">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1403" height="355" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595039286683" />
+    <state width="1403" height="355" key="GridCell.Tab.1.right" timestamp="1595039286684">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1403" height="355" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595039286684" />
+    <state x="753" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595039269532">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="753" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1595039269532" />
+    <state x="731" y="339" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1594946844129">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="339" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594946844129" />
+    <state x="672" y="307" key="git4idea.merge.GitPullDialog" timestamp="1595039219750">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="672" y="307" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595039219750" />
+    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1595039178898">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595039178898" />
+    <state x="490" y="180" key="new project wizard" timestamp="1595035900228">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="180" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1595035900228" />
+  </component>
+</project>
