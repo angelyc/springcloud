@@ -1,0 +1,19 @@
+<changelist name="在Update之前未提交更改_at_20_7_18_10_36_[默认的]" date="1595039805001" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/在Update之前未提交更改_at_20_7_18_10_36_[默认的]/shelved.patch" />
+  <option name="DESCRIPTION" value="在Update之前未提交更改 at 20.7.18 10:36 [默认的]" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="ribbon-consumer/.mvn/wrapper/maven-wrapper.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在Update之前未提交更改_at_20_7_18_10_36_[默认的]/maven-wrapper.jar" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="springcloudclient/.mvn/wrapper/maven-wrapper.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在Update之前未提交更改_at_20_7_18_10_36_[默认的]/maven-wrapper1.jar" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="eurekaserver/.mvn/wrapper/maven-wrapper.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在Update之前未提交更改_at_20_7_18_10_36_[默认的]/maven-wrapper2.jar" />
+  </binary>
+</changelist>
