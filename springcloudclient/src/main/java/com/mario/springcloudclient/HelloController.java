@@ -8,6 +8,8 @@ import org.springframework.cloud.client.discovery.DiscoveryClient;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;
 
+import java.util.Random;
+
 @RestController
 @Slf4j
 public class HelloController {
@@ -15,8 +17,11 @@ public class HelloController {
     private DiscoveryClient client;
     @RequestMapping(value = "/hello", method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON_VALUE)
     @ResponseBody
-    public HelloSpringCloud hello() {
+    public HelloSpringCloud hello() throws InterruptedException {
         ServiceInstance instance = client.getLocalServiceInstance();
+        int sleepTime = new Random().nextInt(3000);
+        log.info("Sleep {}", sleepTime);
+        Thread.sleep(sleepTime);
         log.info("/hello, host: " + instance.getHost() + ", service_id: " + instance.getServiceId());
         return new HelloSpringCloud("hello spring cloud");
     }
